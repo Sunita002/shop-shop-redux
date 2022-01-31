@@ -23,5 +23,5 @@ To test the deployed application, you may log in using the email `test@test.com`
 ![Shop-Shop with Redux](./assets/images/screenshot.png)
 
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/Sunita002/shop-shop-redux/issues) or contact me via email at deckiedevs@gmail.com. You can find more of my work on my GitHub, [Sunita002](https://github.com/Sunita002/).
+If you have any questions about the repo, please [open an issue](https://github.com/Sunita002/shop-shop-redux/issues). You can find more of my work on my GitHub, [Sunita002](https://github.com/Sunita002/).
     
