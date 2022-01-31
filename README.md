@@ -20,8 +20,7 @@ To initiate this application, simply clone the repository and run `npm i` from t
 To test the deployed application, you may log in using the email `test@test.com` and the password `password`.  Items can be added to the cart via the main page or product detail page.  Users can also update or remove items from their cart.  To test the checkout feature, use the credit card number `4242 4242 4242 4242` along with any other mock data.
     
 ### Screenshots
-![Shop-Shop with Redux](![screenshot](https://user-images.githubusercontent.com/87583026/151740114-b0693a19-92d0-4142-9b91-ac3650fbc725.png))
-
+![Shop-Shop with Redux]![screenshot](https://user-images.githubusercontent.com/87583026/151740222-e6d65baa-a0db-4505-9995-0e0cbaaf2b04.png)
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/Sunita002/shop-shop-redux/issues). You can find more of my work on my GitHub, [Sunita002](https://github.com/Sunita002/).
     
